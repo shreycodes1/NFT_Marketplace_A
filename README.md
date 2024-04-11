@@ -2,6 +2,13 @@
 
 https://noisy-bread-0335.on.fleek.co
 
+# Smartcontract Github link
+
+https://github.com/shreycodes1/Smartcontract_PartA
+
+# Smartcontract Address Deployed on Sepolia testnet 
+
+address : https://sepolia.etherscan.io/address/0x51b31be9c0ae43759992ac75b0c48f72655b0f57
 
 # React + TypeScript + Vite
 
